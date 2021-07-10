@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Despliegue Front
 
-[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://back-galaxy.herokuapp.com/)
+[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://front-galaxy.herokuapp.com/)
 
 ## Available Scripts
 
