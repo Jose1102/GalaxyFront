@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Despliegue Back 
 
-[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://back-galaxy.herokuapp.com/)
+[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://back-proyecto.herokuapp.com/galaxy/usuarios)
 
 ## Despliegue Front
 
