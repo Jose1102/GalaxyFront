@@ -2,14 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Despliegue Back 
-
-[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://back-proyecto.herokuapp.com/galaxy/usuarios)
-
-## Despliegue Front
-
-[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://api-front-galaxy.herokuapp.com/)
-
 ## Available Scripts
 
 In the project directory, you can run:
