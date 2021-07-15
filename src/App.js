@@ -14,6 +14,8 @@ import LoginUser from './assets/components/LoginUser';
 import Inicio from './assets/components/Inicio';
 import Jugar from './assets/components/Jugar';
 
+
+
 function App() {
   return (
 
@@ -28,6 +30,8 @@ function App() {
                           <Route path = "/iniciarSesion" exact component = {LoginUser}></Route>
                           <Route path = "/inicio" exact component = {Inicio}></Route>
                           <Route path = "/jugar" exact component = {Jugar}></Route>
+                          
+                          
                           
                     </Switch>
                 </div>
